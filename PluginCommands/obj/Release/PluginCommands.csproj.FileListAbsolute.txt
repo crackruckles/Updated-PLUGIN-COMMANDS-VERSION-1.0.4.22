@@ -1,0 +1,13 @@
+C:\Users\crack\Desktop\PluginCommands-master\PluginCommands\obj\Release\PluginCommands.csproj.CoreCompileInputs.cache
+C:\Users\crack\Desktop\PluginCommands-master\PluginCommands\bin\Release\PluginCommands.dll
+C:\Users\crack\Desktop\PluginCommands-master\PluginCommands\bin\Release\PluginCommands.pdb
+C:\Users\crack\Desktop\PluginCommands-master\PluginCommands\bin\Release\Newtonsoft.Json.dll
+C:\Users\crack\Desktop\PluginCommands-master\PluginCommands\bin\Release\OTAPI.dll
+C:\Users\crack\Desktop\PluginCommands-master\PluginCommands\bin\Release\TerrariaServer.exe
+C:\Users\crack\Desktop\PluginCommands-master\PluginCommands\bin\Release\TShockAPI.dll
+C:\Users\crack\Desktop\PluginCommands-master\PluginCommands\bin\Release\HttpServer.dll
+C:\Users\crack\Desktop\PluginCommands-master\PluginCommands\bin\Release\MySql.Data.dll
+C:\Users\crack\Desktop\PluginCommands-master\PluginCommands\bin\Release\BCrypt.Net.dll
+C:\Users\crack\Desktop\PluginCommands-master\PluginCommands\bin\Release\Mono.Data.Sqlite.dll
+C:\Users\crack\Desktop\PluginCommands-master\PluginCommands\obj\Release\PluginCommands.dll
+C:\Users\crack\Desktop\PluginCommands-master\PluginCommands\obj\Release\PluginCommands.pdb
